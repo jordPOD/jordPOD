@@ -1,5 +1,6 @@
 import axios from "axios";
 import config from "../config.json";
+import Head from "next/head";
 
 console.log(config.discord.clientID);
 
@@ -71,7 +72,11 @@ class UserPage extends React.Component {
           borderRadius: config.user.corners,
         }}
       >
+        <Head>
+          <title>Cheese.media</title>
+        </Head>
         <div className="main padfix">
+
           <div className="flex">
           <h1 className="logo" style={{color: config.user.colorSecondary, textTransform: "uppercase", fontSize: config.logo.size}}> <span style={{color: config.user.color, fontSize: config.logo.size2, textTransform: "lowercase", marginRight: 15}}>{config.user.username}</span>{config.logo.portfolio}</h1>
           </div>

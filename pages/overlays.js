@@ -117,11 +117,11 @@ class UserPage extends React.Component {
             </div>
           </div>
           <div className="gamecont">
-            <img className="game" src={mixer.type.coverUrl} />
+          <img className="game" src={mixer.type.coverUrl} />
             <div className="info">
               <h1 className="prenup" style={{ color: config.user.colorSecondary }}>{prenup}</h1>
               <EventName>{eventname}</EventName>
-              <p className="eventdesc" style={{ color: config.user.color }}>{eventdesc}</p>
+              <p className="eventdesc">{eventdesc}</p>
             </div>
           </div>
         </div>
