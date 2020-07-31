@@ -38,21 +38,11 @@ class UserPage extends React.Component {
       return null;
     }
 
-    let eventname = mixer.type.name;
-    let eventdesc = mixer.type.description;
+
 
     let scenetitle = config.scenes[id].name;
     let scenedesc = config.scenes[id].desc;
     let prenup = config.scenes[id].prenup;
-
-    if (eventname === "Creative") {
-      eventname = config.events[0].name;
-      eventdesc = config.events[0].desc;
-    }
-    if (eventname === "Development") {
-      eventname = config.events[1].name;
-      eventdesc = config.events[1].desc;
-    }
 
     let sceneChecker = config.user.background;
 
@@ -82,7 +72,7 @@ class UserPage extends React.Component {
           </div>
           <div className="herocont">
             <div>
-              <img className="avatar" style={{height: config.avatar.size }} src={`https://mixer.com/api/v1/users/${mixer.userId}/avatar`} />
+              <img className="avatar" style={{height: config.avatar.size }} src="https://pbs.twimg.com/profile_images/1228111946794307584/p8TxYuvu_400x400.jpg" />
               <h1 className="title" style={{ color: config.user.color, fontSize: config.web.titleSize }}>{config.web.title}</h1>
               <p className="subtitle" style={{color: config.user.colorSecondary, fontSize: config.web.subtitleSize}}>{config.web.subtitle}</p>
             </div>
