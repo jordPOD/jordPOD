@@ -9,7 +9,7 @@ class UserPage extends React.Component {
         className="container"
         style={{
           fontFamily: config.user.font,
-          background: sceneChecker,
+          background: config.user.background,
           overflow: 'auto',
           borderRadius: config.user.corners,
         }}
