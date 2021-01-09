@@ -2,56 +2,8 @@ import axios from "axios";
 import config from "../config.json";
 import Head from "next/head";
 
-console.log(config.discord.clientID);
-
-const API = "http://localhost:3000/api";
-
 class UserPage extends React.Component {
-  static getInitialProps = async ctx => {
-    let username = config.user.username;
-
-    const _CHANNELS = "https://mixer.com/api/v1/channels";
-
-    const res = await axios(`${_CHANNELS}/${username}`);
-
-    return {
-      mixer: res.data
-    };
-  };
-
   render() {
-    let mixer = this.props.mixer;
-
-    // Event Checker
-
-    let id;
-    let scene = config.user.currentScene;
-
-    if (scene === "start") {
-      id = 0;
-    } else if (scene === "brb") {
-      id = 1;
-    } else if (scene === "end") {
-      id = 2;
-    } else {
-      id = 3;
-      return null;
-    }
-
-
-
-    let scenetitle = config.scenes[id].name;
-    let scenedesc = config.scenes[id].desc;
-    let prenup = config.scenes[id].prenup;
-
-    let sceneChecker = config.user.background;
-
-    if (config.user.currentScene === "game") {
-      sceneChecker = "transparent !important";
-    } else {
-      sceneChecker;
-    }
-
     let userData = (
       <div
         className="container"
@@ -63,7 +15,7 @@ class UserPage extends React.Component {
         }}
       >
         <Head>
-          <title>Cheese.media</title>
+          <title>{config.web.title}</title>
         </Head>
         <div className="main padfix">
 
