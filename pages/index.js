@@ -24,7 +24,7 @@ class UserPage extends React.Component {
           </div>
           <div className="herocont">
             <div>
-              <img className="avatar" style={{height: config.avatar.size }} src="https://pbs.twimg.com/profile_images/1228111946794307584/p8TxYuvu_400x400.jpg" />
+              <img className="avatar" style={{height: config.avatar.size }} src={{config.user.avatar}} />
               <h1 className="title" style={{ color: config.user.color, fontSize: config.web.titleSize }}>{config.web.title}</h1>
               <p className="subtitle" style={{color: config.user.colorSecondary, fontSize: config.web.subtitleSize}}>{config.web.subtitle}</p>
             </div>
