@@ -31,7 +31,7 @@ class UserPage extends React.Component {
           </div>
             <div className="showcasecont">
               <img className="showcase" src="heroimage.png"/>
-     <a href="https://dribbble.com/CheeseHai"> 
+     <a href="https://dribbble.com/ChGGse"> 
       <button className="mainbutton" 
       style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
       }}><i class="fab fa-dribbble"></i> {config.web.mainbutton.text}</button></a>
