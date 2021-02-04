@@ -1,6 +1,6 @@
 {
     "user": {
-        "username": "Cheese",
+        "username": "fridgd",
         "platform": "mixer",
         "team": false,
         "logo": "https://i.imgur.com/Xzff1zr.png",
@@ -23,7 +23,7 @@
     },
     "logo": {
         "live": "live",
-        "portfolio": ".graphics",
+        "portfolio": "",
         "size": "53px",
         "size2": "70px"
     },
@@ -33,6 +33,7 @@
         "titleSize": "60px",
         "subtitle": "I create and design beautiful experiences for humans.",
         "subtitleSize": "30px",
+        "link": "https://dribbble.com/fridgd",
         "mainbutton" : {
             "icon": "fa-dribbble",
             "color": "#282828",
