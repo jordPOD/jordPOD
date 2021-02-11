@@ -34,7 +34,7 @@ class UserPage extends React.Component {
               <h1 className="title" style={{ color: config.user.color, fontSize: config.web.titleSize }}>{config.web.title}</h1>
               <p className="subtitle" style={{color: config.user.colorSecondary, fontSize: config.web.subtitleSize}}>{config.web.subtitle}</p>
               <p>{config.web.desc}</p>
-              <a href={config.web.link}> 
+              <a href={config.social.dribbble}> 
       <button className="mainbutton" 
       style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
       }}><FontAwesomeIcon icon={["fab", "dribbble"]} /> {config.web.mainbutton.text}</button></a>
@@ -53,10 +53,9 @@ class UserPage extends React.Component {
               </div>
             </div>
             <div>
-            <a href={config.web.link}> 
-      <button className="projbtn" 
+            <a target="_blank" className="projbtn" href={config.social.coffee}
       style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
-      }}><FontAwesomeIcon icon={["fas", "mug-hot"]} /> support me</button></a>
+      }}><FontAwesomeIcon icon={["fas", "mug-hot"]} /> support me</a>
             </div>
         </div>
         <div>

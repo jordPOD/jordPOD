@@ -42,6 +42,10 @@
       "text": "view my dribbble"
     }
   },
+  "social": {
+    "dribbble": "https://dribbble.com/xpbsh",
+    "coffee": "https://ko-fi.com/Cheese"
+  },
   "team": {
     "enabled": true,
     "before": "We're ",
