@@ -3,7 +3,7 @@
     "username": "xpbsh",
     "platform": "mixer",
     "team": false,
-    "logo": "https://i.imgur.com/Xzff1zr.png",
+    "logo": "logo.png",
     "avatar": "https://pbs.twimg.com/profile_images/1347555982776430595/U52gN4MU_400x400.jpg",
     "font": "Quicksand",
     "color": "#ffffff",
@@ -11,7 +11,7 @@
     "currentScene": "end",
     "eventName": "Development",
     "background": "#212121",
-    "buttonColour": "#212121",
+    "buttonColour": "#fff",
     "corners": "0px",
     "backgroundImage": {
       "url": "",
@@ -20,24 +20,25 @@
     "cam": false
   },
   "avatar": {
-    "size": "80px"
+    "size": "370px"
   },
   "logo": {
     "live": "live",
     "portfolio": "",
-    "size": "53px",
+    "size": "40px",
     "size2": "70px"
   },
   "web": {
     "enabled": false,
     "title": "Hey, I'm Jordan.",
     "titleSize": "60px",
-    "subtitle": "I create and design beautiful experiences for humans.",
+    "subtitle": "I create and design beautiful experiences for humans. ⚡🚀",
+    "desc": "Ideas-focused designer with an innate passion for creating products. I am currently proficient in NextJS, React and Supabase. Along with that, I design with Figma.",
     "subtitleSize": "30px",
     "mainbutton": {
       "icon": "fa-dribbble",
       "color": "#282828",
-      "background": "#E84B87",
+      "background": "#fff",
       "text": "view my dribbble"
     }
   },
@@ -55,6 +56,20 @@
     "player": true,
     "buttons": 10
   },
+  "projects": [
+    {
+      "name": "Orangopus",
+      "img": "google.com",
+      "desc": "An open collective that builds free open-source software for creators.",
+      "url": "https://orangopus.com"
+    },
+    {
+      "name": "Libby",
+      "img": "google.com",
+      "desc": "Branded profiles for creators and beyond.",
+      "url": "https://libby.gg"
+    }
+  ],
   "events": [
     {
       "name": "Creative Coding 🎨👨‍💻",
