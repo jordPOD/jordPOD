@@ -88,6 +88,56 @@ class UserPage extends React.Component {
             ))}
         </div>
         </div>
+
+
+        <div className="main projects">
+            <div className="flex">
+              <div>
+              <h1 className="projh1">CONCEPTS</h1>
+              <hr className="titlehr" />
+              </div>
+            </div>
+        </div>
+        <div className="project">
+        <div className="shotscont">
+            <div className="flex-grid3">
+              <div class="shot1"><img className="shots" src={config.shots.shot1} /> </div>
+              <div class="shot2"><img className="shots2" src={config.shots.shot2} /> </div>
+              <div class="shot3"><img className="shots2" src={config.shots.shot3} /> </div>
+            </div>
+        </div>        
+        </div>
+
+
+        <div className="main projects">
+            <div className="flex">
+              <div className="left-line">
+              </div>
+              <div>
+              <h1 className="projh1">SCHEDULE</h1>
+              </div>
+            </div>
+            <div>
+            <a target="_blank" className="projbtn" href={config.social.caffeine}
+      style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
+      }}><FontAwesomeIcon icon={["fas", "live"]} /> watch live</a>
+            </div>
+        </div>
+        <div className="project">
+        <div className="flex-grid2">
+            {config.schedule.map((schedule, index) => (
+            <div className="col center card2">
+            <img className="schedulelogo" src={schedule.logo} />
+            <p className="projdesc">{schedule.day}</p>
+            <a target="_blank" className="projbtn schedbtn"
+      style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
+      }}>{schedule.time}</a>
+            </div>
+            ))}
+        </div>        
+        </div>
+
+
         </div>
       </div>
     );

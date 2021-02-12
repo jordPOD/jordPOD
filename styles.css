@@ -33,6 +33,49 @@ h1 {
   vertical-align: middle;
 }
 
+.shots {
+  box-shadow: 0px 4px 89px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  max-width: 780px;
+  margin: 10px;
+}
+
+.shotscont {
+  width: min-content;
+}
+
+.titlehr {
+  border: 1px solid #fff;
+  background: #fff;
+  border-radius: 7px 7px 7px 7px;
+  height: 6px;
+  width: 200px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.shots2 {
+  box-shadow: 0px 4px 89px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  max-width: 372px;
+  margin: 10px;
+}
+
+.card2 {
+  display: block;
+  z-index: 1;
+  box-shadow: 0px 4px 89px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  background: #282828;
+  margin: 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.card2 > a {
+  margin: 0;
+}
+
 .background {
   background-image: url("/background.png");
   background-position: center;
@@ -72,6 +115,11 @@ h1 {
   margin-right: 30px;
 }
 
+.schedulelogo {
+  max-width: 200px;
+  margin-top: 30px;
+}
+
 .projbtn {
   padding: 15px 20px;
   border-radius: 50px;
@@ -84,9 +132,45 @@ h1 {
   cursor: pointer;
 }
 
+.schedbtn {
+  display: block !important;
+}
+
 .flex-grid {
   display: grid;
   grid-template-columns: auto auto;
+}
+
+.flex-grid2 {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.flex-grid3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    "shot1 shot2"
+    "shot1 shot3";
+}
+
+.shot1 {
+  grid-area: shot1;
+}
+.shot2 {
+  grid-area: shot2;
+}
+.shot3 {
+  grid-area: shot3;
+}
+
+.padd {
+  align-items: center;
+  vertical-align: middle;
+  justify-content: center;
+  margin-top: 15% !important;
 }
 
 .col {

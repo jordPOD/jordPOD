@@ -50,7 +50,8 @@
     "instagram": "https://instagram.com/xpbsh",
     "figma": "https://figma.com/@xpbsh",
     "youtube": "https://www.youtube.com/channel/UC2lXAyN3tLLfEMa34m4S3RA",
-    "coffee": "https://ko-fi.com/Cheese"
+    "coffee": "https://ko-fi.com/Cheese",
+    "caffeine": "https://caffeine.tv/xpbsh"
   },
   "team": {
     "enabled": true,
@@ -94,6 +95,38 @@
       "url": "https://github.com/orangopus/mixlook",
       "color": "#1FBAEC",
       "buttonTitle": "Fork on GitHub"
+    }
+  ],
+  "shots": {
+    "shot1": "https://cdn.dribbble.com/users/4047326/screenshots/14914695/media/810d5c7cc05809675cfefeaed93d2609.png?compress=1&resize=800x600",
+    "shot2": "https://cdn.dribbble.com/users/4047326/screenshots/7094191/media/4143e86ee934d6fc8cfd7ad2a9509b4e.png?compress=1&resize=1000x750",
+    "shot3": "https://cdn.dribbble.com/users/4047326/screenshots/7085049/media/a4530d093ff0c9ed29925250767d3d9a.png?compress=1&resize=1000x750"
+  },
+  "schedule": [
+    {
+      "logo": "creativecoding.png",
+      "day": "Monday",
+      "time": "9PM GMT"
+    },
+    {
+      "logo": "creativecoding.png",
+      "day": "Wednesday",
+      "time": "9PM GMT"
+    },
+    {
+      "logo": "creativecoding.png",
+      "day": "Friday",
+      "time": "9PM GMT"
+    },
+    {
+      "logo": "creativecoding.png",
+      "day": "Saturday",
+      "time": "9PM GMT"
+    },
+    {
+      "logo": "creativecoding.png",
+      "day": "Sunday",
+      "time": "9PM GMT"
     }
   ],
   "events": [
