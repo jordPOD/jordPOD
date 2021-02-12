@@ -63,15 +63,31 @@
   "projects": [
     {
       "name": "Orangopus",
-      "img": "google.com",
-      "desc": "An open collective that builds free open-source software for creators.",
-      "url": "https://orangopus.com"
+      "desc": "An open collective that builds free opensource software for creators.",
+      "url": "https://orangopus.com",
+      "color": "#FF923E",
+      "buttonTitle": "View Project"
     },
     {
       "name": "Libby",
-      "img": "google.com",
       "desc": "Branded profiles for creators and beyond.",
-      "url": "https://libby.gg"
+      "url": "https://libby.gg",
+      "color": "#0472D8",
+      "buttonTitle": "View Project"
+    },
+    {
+      "name": "Dynamix Toolbox",
+      "desc": "A self-hosted sandbox to boost your workflow",
+      "url": "https://github.com/orangopus/dynamix-toolbox",
+      "color": "#FFFFFF",
+      "buttonTitle": "Fork on GitHub"
+    },
+    {
+      "name": "Mixlook",
+      "desc": "View and embed your Mixer profiles. [DEPRECATED]",
+      "url": "https://github.com/orangopus/mixlook",
+      "color": "#1FBAEC",
+      "buttonTitle": "Fork on GitHub"
     }
   ],
   "events": [

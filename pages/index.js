@@ -63,8 +63,11 @@ class UserPage extends React.Component {
         <div className="flex-grid">
             {config.projects.map((project, index) => (
             <div className="col center card">
-            <h1>{project.name}</h1>
-            <p>{project.desc}</p>
+            <h1 className="projtitle" style={{color: project.color}}>{project.name}</h1>
+            <p className="projdesc">{project.desc}</p>
+            <a target="_blank" className="projbtn" href={project.url}
+      style={{color: config.web.mainbutton.color, background: project.color 
+      }}>{project.buttonTitle}</a>
             </div>
             ))}
         </div>
