@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 import { fas } from '@fortawesome/free-solid-svg-icons';
+import IframeResizer from 'iframe-resizer-react';
 
 library.add(fab, fas)
 
@@ -101,9 +102,9 @@ class UserPage extends React.Component {
         <div className="project">
         <div className="shotscont">
             <div className="flex-grid3">
-              <div class="shot1"><img className="shots" src={config.shots.shot1} /> </div>
-              <div class="shot2"><img className="shots2" src={config.shots.shot2} /> </div>
-              <div class="shot3"><img className="shots2" src={config.shots.shot3} /> </div>
+              <div className="shot1"><img className="shots" src={config.shots.shot1} /> </div>
+              <div className="shot2"><img className="shots2" src={config.shots.shot2} /> </div>
+              <div className="shot3"><img className="shots2" src={config.shots.shot3} /> </div>
             </div>
         </div>        
         </div>
@@ -120,7 +121,7 @@ class UserPage extends React.Component {
             <div>
             <a target="_blank" className="projbtn" href={config.social.caffeine}
       style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
-      }}><FontAwesomeIcon icon={["fas", "live"]} /> watch live</a>
+      }}><FontAwesomeIcon icon={["fas", "headset"]} /> watch live</a>
             </div>
         </div>
         <div className="project">
@@ -137,6 +138,29 @@ class UserPage extends React.Component {
         </div>        
         </div>
 
+        <div className="main projects">
+            <div className="flex">
+              <div>
+              <h1 className="projh1">TESTIMONIALS</h1>
+              <hr className="titlehr" />
+              </div>
+            </div>
+        </div>
+        <div className="project">
+        <div className="shotscont">
+            <div className="flex-grid2 gridfix">
+            <IframeResizer className="wall"
+              src="https://embed.testimonial.to/w/xpbsh?theme=dark&card=base"
+              style={{ width: "400px", minWidth: "100%" }}
+            />
+            </div>
+            <div>
+            <a target="_blank" className="projbtn submit" href={config.social.testimonial}
+      style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
+      }}>submit testimonial</a>
+            </div>
+        </div>        
+        </div>
 
         </div>
       </div>

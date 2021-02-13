@@ -22,6 +22,7 @@
     "axios": "^0.19.2",
     "discord-rich-presence": "0.0.8",
     "fs": "0.0.1-security",
+    "iframe-resizer-react": "^1.1.0",
     "next": "^9.2.2",
     "raw-loader": "^4.0.0",
     "react": "^16.12.0",
