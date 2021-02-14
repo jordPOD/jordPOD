@@ -29,7 +29,7 @@ class UserPage extends React.Component {
     } else {
       id = 3;
       return (
-      <div className="card">
+      <div className="card3">
         <div className="inline-block">
           <img className="album" src="pretzel.png" />
         </div>
@@ -99,12 +99,15 @@ class UserPage extends React.Component {
       >
         <div className="main">
           <div className="flex">
-          <h1 className="logo" style={{color: config.user.colorSecondary, textTransform: "uppercase", fontSize: config.logo.size}}> <span style={{color: config.user.color, fontSize: config.logo.size2, textTransform: "lowercase", marginRight: 15}}>{config.user.username}</span>{config.logo.live}</h1>
+          <div className="nav flex ">
+          <h1 className="logo" style={{color: config.user.colorSecondary, textTransform: "uppercase", fontSize: config.logo.size}}> <span style={{color: config.user.color, fontSize: config.logo.size2, textTransform: "lowercase", marginRight: 15}}><img className="logo" style={{height: config.avatar.size }} src={config.user.logo}/></span></h1>
+            
             <div className="scenes">
               <h1 className="scenetitle">{scenetitle}</h1>
               <p className="scenedesc" style={{ color: config.user.color }}>
                 {scenedesc}
               </p>
+            </div>
             </div>
           </div>
           <div className="gamecont">
@@ -114,37 +117,19 @@ class UserPage extends React.Component {
               <p className="eventdesc">{eventdesc}</p>
             </div>
           </div>
+          <div className="card3 pretzelmargin">
+        <div className="inline-block">
+          <img className="album" src="pretzel.png" />
+        </div>
+        <div className="inline-block"> 
+        <h1>
+          {pretzel.track.title}
+        </h1>
+        <p>{pretzel.track.artistsString}</p>
         </div>
       </div>
-    );
-
-    let gameData = (
-      <div
-      className="container"
-      style={{
-        fontFamily: config.user.font,
-        borderRadius: config.user.corners
-      }}
-    >
-      <div className="main">
-        <div className="flex">
-        <h1 className="logo" style={{color: config.user.colorSecondary, textTransform: "uppercase", fontSize: config.logo.size}}> <span style={{color: config.user.color, fontSize: config.logo.size2, textTransform: "lowercase", marginRight: 15}}>{config.user.username}</span>{config.logo.live}</h1>
-          <div className="scenes">
-            <h1 className="scenetitle">{scenetitle}</h1>
-            <p className="scenedesc" style={{ color: config.user.color }}>
-              {scenedesc}
-            </p>
-          </div>
-        </div>
-        <div className="gamecont">
-          <div className="info">
-            <h1 className="prenup">{prenup}</h1>
-            <EventName>{eventname}</EventName>
-            <p className="eventdesc">{eventdesc}</p>
-          </div>
         </div>
       </div>
-    </div>
     );
 
     if (config.currentScene === "game") {

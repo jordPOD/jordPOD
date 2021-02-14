@@ -10,7 +10,30 @@ import IframeResizer from 'iframe-resizer-react';
 library.add(fab, fas)
 
 class UserPage extends React.Component {
+
+  state = {
+    user: []
+  }
+
+  componentDidMount() {
+    axios.get(`https://api.caffeine.tv/v1/users/xpbsh`)
+      .then(res => {
+        const user = res.data.user;
+        this.setState({ user });
+        console.log(user)
+      
+      })
+  }
+
   render() {
+    let liveChecker = this.state.user.broadcast_state;
+
+    if (liveChecker === "ONLINE") {
+      liveChecker = "live on Caffeine!"
+    } else if (liveChecker === "OFFLINE") {
+      liveChecker = "offline."
+    }
+
     let userData = (
       <div
         className="container"
@@ -55,6 +78,7 @@ class UserPage extends React.Component {
               <a href={config.social.youtube} target="_blank" className="mainbutton">
                 <FontAwesomeIcon icon={["fab", "youtube"]} />
               </a>
+              <p><a target="_blank" href={config.social.caffeine}>I'm currently {liveChecker}</a></p>
             </div>
             <div>
               <img className="avatar" src="avatar.png" style={{ maxWidth: config.avatar.size }}/>
