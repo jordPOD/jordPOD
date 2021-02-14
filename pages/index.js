@@ -146,6 +146,10 @@ class UserPage extends React.Component {
         </div>
         <div className="project">
         <div className="flex-grid2">
+            <div className="col center">
+              <iframe className="cafvid" src="https://preview.caffeine.tv/xpbsh" scrolling="no" frameborder="0"></iframe>
+            </div>
+
             {config.schedule.map((schedule, index) => (
             <div className="col center card2">
             <img className="schedulelogo" src={schedule.logo} />

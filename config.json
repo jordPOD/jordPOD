@@ -8,7 +8,7 @@
     "font": "Quicksand",
     "color": "#ffffff",
     "colorSecondary": "#ffffff",
-    "currentScene": "end",
+    "currentScene": "game",
     "eventName": "Development",
     "background": "#212121",
     "buttonColour": "#fff",
