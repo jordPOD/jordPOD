@@ -482,3 +482,9 @@ a {
     grid-template-columns: none !important;
   }
 }
+
+@media (max-width: 486px) {
+  .title {
+    line-height: 75px !important;
+  }
+}
