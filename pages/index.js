@@ -11,20 +11,6 @@ library.add(fab, fas)
 
 class UserPage extends React.Component {
 
-  state = {
-    user: []
-  }
-
-  componentDidMount() {
-    axios.get(`https://cors-anywhere.herokuapp.com/https://api.caffeine.tv/v1/users/xpbsh`)
-      .then(res => {
-        const user = res.data.user;
-        this.setState({ user });
-        console.log(user)
-      
-      })
-  }
-
   render() {
     let userData = (
       <div
