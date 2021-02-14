@@ -57,11 +57,30 @@ class UserPage extends React.Component {
                 <FontAwesomeIcon icon={["fab", "youtube"]} />
               </a>
             </div>
+
             <div>
               <img className="avatar" src="avatar.png" style={{ maxWidth: config.avatar.size }}/>
             </div>
           </div>
         </div>
+
+        <div className="main projects">
+            <div className="flex">
+              <div>
+              <h1 className="projh1">SKILLS</h1>
+              <hr className="titlehr" />
+              </div>
+            </div>
+        </div>
+        <div className="project">
+        <div className="shotscont skills">
+            <FontAwesomeIcon  className="mainbutton btnfix" size={70} icon={["fab", "react"]} />
+            <FontAwesomeIcon  className="mainbutton btnfix" size={70} icon={["fab", "js"]} />
+            <FontAwesomeIcon  className="mainbutton btnfix" size={70} icon={["fab", "html5"]} />
+            <FontAwesomeIcon  className="mainbutton btnfix" size={70} icon={["fab", "figma"]} />
+        </div>        
+        </div>
+
         <div className="main projects">
             <div className="flex">
               <div className="left-line">

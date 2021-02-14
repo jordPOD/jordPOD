@@ -117,10 +117,22 @@ h1 {
   top: 0;
 }
 
+.skills {
+  display: flex;
+}
+
+.btnfix {
+  margin: 30px 30px;
+  display: block;
+  font-size: 35px !important;
+  box-shadow: none !important;
+}
+
 .mainbutton {
   border-radius: 50%;
   font-size: 25px;
   border: none;
+  color: #fff;
   display: inline-block;
   font-weight: bolder;
   font-family: Quicksand;
