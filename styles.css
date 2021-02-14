@@ -54,6 +54,16 @@ h1 {
   margin-bottom: 60px;
 }
 
+.titlehr2 {
+  border: 1px solid #fff;
+  background: #fff;
+  border-radius: 7px 7px 7px 7px;
+  height: 6px;
+  width: 100px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
 .wall {
   border: none;
 }
@@ -413,4 +423,62 @@ a {
   color: #fff;
   text-decoration: none;
   margin: 20px 0px;
+}
+
+@media (max-width: 1344px) {
+  .flex-grid {
+    display: grid;
+    grid-template-columns: auto;
+  }
+
+  .projects {
+    display: grid !important;
+  }
+
+  .col {
+    width: 300px !important;
+  }
+
+  .left-line {
+    display: none;
+  }
+
+  .projh1 {
+    font-size: 50px !important;
+  }
+
+  .btncenter {
+    margin: auto;
+  }
+
+  .herocont {
+    text-align: center;
+    justify-content: center !important;
+  }
+
+  .nav {
+    margin-left: none !important;
+  }
+
+  .nav {
+    margin-left: 10px !important;
+    justify-content: center !important;
+  }
+
+  .avatar {
+    display: none;
+  }
+
+  .flex-grid3 {
+    display: block !important;
+  }
+
+  .shots {
+    max-width: 372px;
+  }
+
+  .flex-grid2 {
+    display: grid;
+    grid-template-columns: none !important;
+  }
 }

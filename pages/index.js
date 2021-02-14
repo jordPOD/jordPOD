@@ -68,7 +68,7 @@ class UserPage extends React.Component {
             <div className="flex">
               <div>
               <h1 className="projh1">SKILLS</h1>
-              <hr className="titlehr" />
+              <hr className="titlehr2" />
               </div>
             </div>
         </div>
@@ -89,7 +89,7 @@ class UserPage extends React.Component {
               <h1 className="projh1">Projects</h1>
               </div>
             </div>
-            <div>
+            <div className="btncenter">
             <a target="_blank" className="projbtn" href={config.social.coffee}
       style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
       }}><FontAwesomeIcon icon={["fas", "mug-hot"]} /> support me</a>
@@ -138,7 +138,7 @@ class UserPage extends React.Component {
               <h1 className="projh1">SCHEDULE</h1>
               </div>
             </div>
-            <div>
+            <div className="btncenter">
             <a target="_blank" className="projbtn" href={config.social.caffeine}
       style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
       }}><FontAwesomeIcon icon={["fas", "headset"]} /> watch live</a>
