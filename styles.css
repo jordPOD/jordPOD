@@ -434,10 +434,6 @@ a {
   margin: 20px 0px;
 }
 
-.btnc {
-  margin: auto;
-}
-
 @media (max-width: 1344px) {
   .flex-grid {
     display: grid;

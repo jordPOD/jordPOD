@@ -41,6 +41,9 @@ class UserPage extends React.Component {
               <a href={config.social.figma} target="_blank" className="mainbutton">
                 <FontAwesomeIcon icon={["fab", "figma"]} />
               </a>
+              <a href={config.social.makerlog} target="_blank" className="mainbutton">
+                <FontAwesomeIcon icon={["fas", "check-circle"]} />
+              </a>
               <a href={config.social.github} target="_blank" className="mainbutton">
                 <FontAwesomeIcon icon={["fab", "github"]} />
               </a>
