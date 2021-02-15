@@ -175,16 +175,12 @@ class UserPage extends React.Component {
             <div className="flex-grid2 gridfix">
             <IframeResizer className="wall"
               src="https://embed.testimonial.to/w/xpbsh?theme=dark&card=base"
-              style={{ width: "400px", minWidth: "100%" }}
+              style={{ width: "800px", minWidth: "100%" }}
             />
-            </div>
-            <div>
-            <a target="_blank" className="projbtn submit" href={config.social.testimonial}
-      style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
-      }}>submit testimonial</a>
             </div>
         </div>        
         </div>
+        
 
         </div>
       </div>
