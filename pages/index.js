@@ -50,19 +50,17 @@ class UserPage extends React.Component {
               <a href={config.social.twitter} target="_blank" className="mainbutton">
                 <FontAwesomeIcon icon={["fab", "twitter"]} />
               </a>
-              <a href={config.social.instagram} target="_blank" className="mainbutton">
-                <FontAwesomeIcon icon={["fab", "instagram"]} />
-              </a>
               <a href={config.social.facebook} target="_blank" className="mainbutton">
                 <FontAwesomeIcon icon={["fab", "facebook"]} />
               </a>
               <a href={config.social.youtube} target="_blank" className="mainbutton">
                 <FontAwesomeIcon icon={["fab", "youtube"]} />
               </a>
+              
             </div>
 
             <div>
-              <img className="avatar" src="avatar.png" style={{ maxWidth: config.avatar.size }}/>
+              <img className="avatar" src={config.user.avatar} style={{ maxWidth: config.avatar.size }}/>
             </div>
           </div>
         </div>
@@ -85,7 +83,7 @@ class UserPage extends React.Component {
         </div>
 
         <div className="main projects">
-            <div className="flex">
+              <div className="flex">
               <div className="left-line">
               </div>
               <div>
@@ -142,17 +140,13 @@ class UserPage extends React.Component {
               </div>
             </div>
             <div className="btncenter">
-            <a target="_blank" className="projbtn" href={config.social.caffeine}
+            <a target="_blank" className="projbtn" href={config.social.glimesh}
       style={{color: config.web.mainbutton.color, background: config.web.mainbutton.background 
       }}><FontAwesomeIcon icon={["fas", "headset"]} /> watch live</a>
             </div>
         </div>
         <div className="project">
         <div className="flex-grid2">
-            <div className="col center">
-              <iframe className="cafvid" src="https://preview.caffeine.tv/xpbsh" scrolling="no" frameborder="0"></iframe>
-            </div>
-
             {config.schedule.map((schedule, index) => (
             <div className="col center card2">
             <img className="schedulelogo" src={schedule.logo} />

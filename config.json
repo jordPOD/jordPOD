@@ -1,16 +1,16 @@
 {
   "user": {
-    "username": "xpbsh",
+    "username": "Cheese",
     "platform": "mixer",
     "team": false,
     "logo": "logo.png",
-    "avatar": "https://pbs.twimg.com/profile_images/1347555982776430595/U52gN4MU_400x400.jpg",
+    "avatar": "https://avatars.githubusercontent.com/u/45247477",
     "font": "Quicksand",
-    "color": "#ffffff",
+    "color": "#EDA12D",
     "colorSecondary": "#ffffff",
-    "currentScene": "game",
+    "currentScene": "end",
     "eventName": "Development",
-    "background": "#212121",
+    "background": "#282828",
     "buttonColour": "#fff",
     "corners": "0px",
     "backgroundImage": {
@@ -38,21 +38,20 @@
     "mainbutton": {
       "icon": "fa-dribbble",
       "color": "#282828",
-      "background": "#fff",
+      "background": "#EDA12D",
       "text": "view my dribbble"
     }
   },
   "social": {
-    "dribbble": "https://dribbble.com/xpbsh",
-    "twitter": "https://twitter.com/xpbsh",
-    "github": "https://github.com/xpbsh",
-    "facebook": "https://facebook.com/xpbsh",
-    "instagram": "https://instagram.com/xpbsh",
-    "figma": "https://figma.com/@xpbsh",
+    "dribbble": "https://dribbble.com/XPCheese",
+    "twitter": "https://twitter.com/XPCheese",
+    "github": "https://github.com/XPCheese",
+    "facebook": "https://facebook.com/XPCheese",
+    "figma": "https://figma.com/@XPCheese",
     "youtube": "https://www.youtube.com/channel/UC2lXAyN3tLLfEMa34m4S3RA",
     "coffee": "https://ko-fi.com/Cheese",
-    "caffeine": "https://caffeine.tv/xpbsh",
-    "testimonial": "https://testimonial.to/xpbsh",
+    "glimesh": "https://glimesh.tv/Cheese",
+    "testimonial": "https://testimonial.to/XPCheese",
     "makerlog": "https://maker.to/cheese"
   },
   "team": {
@@ -134,7 +133,7 @@
   "events": [
     {
       "name": "Creative Coding 🎨👨‍💻",
-      "desc": "Creative Coding is a segment on xpb.sh following xpbsh and his journey of creative and programmatic coding.",
+      "desc": "Creative Coding is a segment on cheeseco.de following Cheese and his journey of creative and programmatic coding.",
       "id": 1
     },
     {
@@ -144,28 +143,28 @@
     },
     {
       "name": "Sundev 👨‍💻",
-      "desc": "Sundev is the day where cheese gets to work on finishing up his to-do list and experiments with new projects.",
+      "desc": "Sundev is the day where Cheese gets to work on finishing up his to-do list and experiments with new projects.",
       "id": 3
     }
   ],
   "scenes": [
     {
       "name": "Starting Soon",
-      "desc": "get ready for some bashing!",
+      "desc": "get ready for some cheesy code!",
       "prenup": "Coming up...",
       "id": "start",
       "enabled": false
     },
     {
-      "name": "Bash Right Back",
+      "name": "Brie Right Back",
       "desc": "take 5. grab a snack. stretch your back!",
       "prenup": "Coming up...",
       "id": "brb",
       "enabled": false
     },
     {
-      "name": "Goodbye",
-      "desc": "the code factory exploded!",
+      "name": "Goudabye",
+      "desc": "the cheese factory exploded!",
       "prenup": "Show's over!",
       "id": "end",
       "enabled": false
