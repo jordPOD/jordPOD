@@ -43,16 +43,16 @@
     }
   },
   "social": {
-    "dribbble": "https://dribbble.com/XPCheese",
-    "twitter": "https://twitter.com/XPCheese",
-    "github": "https://github.com/XPCheese",
-    "facebook": "https://facebook.com/XPCheese",
-    "figma": "https://figma.com/@XPCheese",
+    "dribbble": "https://dribbble.com/Chezaur",
+    "twitter": "https://twitter.com/Chezaur",
+    "github": "https://github.com/Chezaur",
+    "facebook": "https://facebook.com/Chezaur",
+    "figma": "https://figma.com/@@Chezaur",
     "youtube": "https://www.youtube.com/channel/UC2lXAyN3tLLfEMa34m4S3RA",
     "coffee": "https://ko-fi.com/Cheese",
-    "glimesh": "https://glimesh.tv/Cheese",
+    "trovo": "https://trovo.live/Chezaur",
     "testimonial": "https://testimonial.to/XPCheese",
-    "makerlog": "https://maker.to/cheese"
+    "makerlog": "https://maker.to/chezaur"
   },
   "team": {
     "enabled": true,
@@ -77,9 +77,9 @@
       "buttonTitle": "View Project"
     },
     {
-      "name": "Libby",
+      "name": "ollo",
       "desc": "Branded profiles for creators and beyond.",
-      "url": "https://libby.gg",
+      "url": "https://ollo.fyi",
       "color": "#0472D8",
       "buttonTitle": "View Project"
     },
