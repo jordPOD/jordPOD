@@ -70,7 +70,7 @@
   },
   "projects": [
     {
-      "name": "Orangopus",
+      "name": "orangopus",
       "desc": "An open collective that builds free opensource software for creators.",
       "url": "https://orangopus.com",
       "color": "#FF923E",
@@ -84,14 +84,14 @@
       "buttonTitle": "View Project"
     },
     {
-      "name": "Dynamix Toolbox",
+      "name": "dynamix-toolbox",
       "desc": "A self-hosted sandbox to boost your workflow",
       "url": "https://github.com/orangopus/dynamix-toolbox",
       "color": "#FFFFFF",
       "buttonTitle": "Fork on GitHub"
     },
     {
-      "name": "Mixlook",
+      "name": "mixlook",
       "desc": "View and embed your Mixer profiles. [DEPRECATED]",
       "url": "https://github.com/orangopus/mixlook",
       "color": "#1FBAEC",
@@ -99,7 +99,7 @@
     }
   ],
   "shots": {
-    "shot1": "https://cdn.dribbble.com/users/4047326/screenshots/14914695/media/810d5c7cc05809675cfefeaed93d2609.png?compress=1&resize=800x600",
+    "shot1": "https://cdn.dribbble.com/users/4047326/screenshots/10521097/media/204af9823ef12875bade0bbcbf007dae.png?compress=1&resize=1600x1200",
     "shot2": "https://cdn.dribbble.com/users/4047326/screenshots/7094191/media/4143e86ee934d6fc8cfd7ad2a9509b4e.png?compress=1&resize=1000x750",
     "shot3": "https://cdn.dribbble.com/users/4047326/screenshots/7085049/media/a4530d093ff0c9ed29925250767d3d9a.png?compress=1&resize=1000x750"
   },
