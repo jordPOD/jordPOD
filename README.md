@@ -14,9 +14,6 @@ Ideas-focused designer with an innate passion for creating products. I am curren
 *   🚀  I'm currently working on [Ollo](http://ollo.fyi)
 *   🧠  I'm learning Figma
 *   🤝  I'm open to collaborating on Interesting projects
-<a href="https://www.twitter.com/chezaur" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/chezaur?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
 
 ### Skills 
 <p align="left">
