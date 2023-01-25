@@ -1,7 +1,7 @@
 ![Profile Card](https://user-images.githubusercontent.com/45247477/109356322-72a8b600-7878-11eb-9080-fbbfe0493c49.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordan Nickless
-=======================================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordan
+==============================================================================================================================
 
 Front-end Web Designer
 ----------------------
