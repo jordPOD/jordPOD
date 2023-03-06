@@ -8,7 +8,7 @@ Ideas-focused designer with an innate passion for creating products. I am curren
 
 *   🌍  I'm based in United Kingdom
 *   🖥️  See my portfolio at [chez.codes](http://chez.codes)
-*   ✉️  You can contact me at [jordan@orangopus.org](mailto:jordan@orangopus.org)
+*   ✉️  You can contact me at [jordan@orangopus.xyz](mailto:jordan@orangopus.xyz)
 *   🚀  I'm currently working on [Ollo](http://ollo.bio)
 *   🧠  I'm learning Figma
 *   🤝  I'm open to collaborating on Interesting projects
