@@ -1,5 +1,3 @@
-![Profile Card](https://user-images.githubusercontent.com/45247477/109356322-72a8b600-7878-11eb-9080-fbbfe0493c49.png)
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordan
 ==============================================================================================================================
 
@@ -9,7 +7,7 @@ Front-end Web Designer
 Ideas-focused designer with an innate passion for creating products. I am currently proficient in NextJS, React and Supabase. Along with that, I design with Figma.
 
 *   🌍  I'm based in United Kingdom
-*   🖥️  See my portfolio at [chez.digital](http://chez.digital)
+*   🖥️  See my portfolio at [chez.codes](http://chez.codes)
 *   ✉️  You can contact me at [jordan@orangopus.org](mailto:jordan@orangopus.org)
 *   🚀  I'm currently working on [Ollo](http://ollo.bio)
 *   🧠  I'm learning Figma
