@@ -7,9 +7,9 @@ Front-end Web Designer
 Ideas-focused designer with an innate passion for creating products. I am currently proficient in NextJS, React and Supabase. Along with that, I design with Figma.
 
 *   🌍  I'm based in United Kingdom
-*   🖥️  See my portfolio at [chez.codes](http://chez.codes)
-*   ✉️  You can contact me at [jordan@orangopus.xyz](mailto:jordan@orangopus.xyz)
-*   🚀  I'm currently working on [Ollo](http://ollo.bio)
+*   🖥️  See my portfolio at [cheese.ninja](http://cheese.ninja)
+*   ✉️  You can contact me at [jordan@orangop.us](mailto:jordan@orangop.us)
+*   🚀  I'm currently working on [Ollo](http://ollo.website)
 *   🧠  I'm learning Figma
 *   🤝  I'm open to collaborating on Interesting projects
 
