@@ -9,7 +9,7 @@ Ideas-focused designer with an innate passion for creating products. I am curren
 *   🌍  I'm based in United Kingdom
 *   🖥️  See my portfolio at [cheese.ninja](http://cheese.ninja)
 *   ✉️  You can contact me at [jordan@orangop.us](mailto:jordan@orangop.us)
-*   🚀  I'm currently working on [Ollo](http://ollo.website)
+*   🚀  I'm currently working on [Ollo](http://ollo.bio)
 *   🧠  I'm learning Figma
 *   🤝  I'm open to collaborating on Interesting projects
 
