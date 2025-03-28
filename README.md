@@ -7,7 +7,7 @@ Front-end Web Designer
 Ideas-focused designer with an innate passion for creating products. I am currently proficient in NextJS, React and Supabase. Along with that, I design with Figma.
 
 *   🌍  I'm based in United Kingdom
-*   🖥️  See my portfolio at [cheese.ninja](http://nickless.my)
+*   🖥️  See my portfolio at [nickless.my](http://nickless.my)
 *   ✉️  You can contact me at [jordan@nickless.my](mailto:jordan@nickless.my)
 *   🚀  I'm currently working on [Ollo](http://ollo.bio)
 *   🧠  I'm learning Figma
