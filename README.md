@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Web Designer
 ----------------------
 
-Ideas-focused designer with an innate passion for creating products. I am currently proficient in NextJS, React and Supabase. Along with that, I design with Figma.
+👋 Hi, I’m Jordan Nickless — a creative technologist, open-source advocate, and founder of Orangopus, a grassroots collective supporting inclusive innovation.
+🛠 I build tools that empower communities, from real-time web interfaces to AI-driven simulations.
+🌱 Passionate about accessibility, mental health, and ethical tech.
+📍 Based in the UK | Always learning | Always building
 
-*   🌍  I'm based in United Kingdom
 *   🖥️  See my resume at [Re-Folio](https://re-folio.vercel.app/@jordan)
 *   ✉️  You can contact me at [jordan@orangopus.org](mailto:jordan@orangopus.org)
 *   🚀  I'm currently working on [Orangopus](https://orangopus.org), a cosmic collaboration platform with many different projects such as Codetrees and ollo.
