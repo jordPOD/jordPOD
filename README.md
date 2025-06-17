@@ -1,55 +1,81 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordan
 ==============================================================================================================================
 
-Front-end Web Designer
-----------------------
+- 🌍 Telford, UK  
+- 📧 jordan@orangopus.org
+- 🧠 Autistic advocate | Creative technologist | Founder of Orangopus  
+- 🔗 [GitHub](https://github.com/) | [orangopus.org](https://orangopus.org)
 
-👋 Hi, I’m Jordan Nickless — a creative technologist, open-source advocate, and founder of Orangopus, a grassroots collective supporting inclusive innovation.
+---
 
-🛠 I build tools that empower communities, from real-time web interfaces to AI-driven simulations.
+## 🎯 Profile
 
-🌱 Passionate about accessibility, mental health, and ethical tech.
+Innovative and socially driven technologist with a passion for creating inclusive, open-source platforms that improve lives and foster collective growth. Founder of **Orangopus**, a grassroots nonprofit collective helping individuals develop projects without judgment. Experienced in interactive media, mental health advocacy, AI, and systems design. Thrives in collaborative and unconventional environments with a deep commitment to community empowerment and digital ethics.
 
-📍 Based in the UK | Always learning | Always building
+---
 
-*   🖥️  See my resume at [Re-Folio](https://re-folio.vercel.app/@jordan)
-*   ✉️  You can contact me at [jordan@orangopus.org](mailto:jordan@orangopus.org)
-*   🚀  I'm currently working on [Orangopus](https://orangopus.org), a cosmic collaboration platform with many different projects such as Codetrees and ollo.
-*   🧠  I'm learning Figma & Canva
-*   🤝  I'm open to collaborating on Interesting projects
+## 🛠️ Skills
 
-### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-</p>
+- **Programming Languages**: JavaScript (Node.js, Next.js), Python, Electron, Bash  
+- **AI & Neural Interfaces**: MusicGen, signal detection, PR Disaster forensic AI  
+- **Creative Development**: Real-time games (PR Disaster), MixPlay-like UIs, dreams.js simulator  
+- **Web & Dashboard Design**: Vercel, Supabase, TailwindCSS, interactive overlays  
+- **Mental Health Advocacy**: Lived experience, letter-writing, and grassroots support systems  
+- **Platforms**: Linux (Fedora, Arch, Hyprland), Discord bots, Wayland, Playerctl
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🚀 Projects
 
-<a href="http://www.github.com/jordPOD"><img src="https://github-readme-stats.vercel.app/api?username=jordPOD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jordPOD's GitHub stats" /></a>
+### **Orangopus Collective**  
+*Founder & Creative Lead*  
+- Built a nonprofit open collective focused on empowering diverse creators and supporting mental wellbeing.  
+- Developed a brand identity, Discord community (30+ members), and outreach initiatives.  
+- Working on grant applications and community-led mental health channels.
+
+### **PR Disaster**  
+*Real-Time AI-Driven Game*  
+- Recreated Mixer’s **MixPlay** using Next.js and a virtual machine container for autonomous AI decision-making.  
+- Implemented crowd-controlled scenarios with dynamic crisis simulation.
+
+### **dreams.js**  
+*Music-Driven Dream Simulator*  
+- Built a real-time neural music-visualizer integrating playerctl, LEDs, and a smooth waveform engine.  
+- Designed for both fullscreen and desktop overlay with Hyprland and Waybar support.
+
+### **PR Disaster AI System**  
+*Forensic & Reactive AI*  
+- Developed a local Python-based AI that monitors audio, RF, optical, and electromagnetic signals.  
+- Real-time logging, analysis, and dashboard for anomaly detection and review.
+
+### **OpenNeural / Openlink**  
+*Wireless Neural Communication Projects*  
+- Early-stage research and prototyping in RF-based signal interpretation and brain-computer interfaces.
+
+---
+
+## 📚 Education & Learning
+
+**Self-Taught Technologist**  
+- Practical experience building advanced tools and interfaces.  
+- Lifelong learner focused on decentralization, accessibility, and ethical AI.
+
+---
+
+## 💡 Advocacy & Impact
+
+- Regularly writes letters and proposals for improving mental health systems (e.g., NHS, CQC).  
+- Uses Orangopus to help others express themselves and access community-based support.  
+- Actively designs tools for neurodiverse creators and those with limited resources.
+
+---
+
+## 🧠 Personal Traits
+
+- Deeply curious, independent thinker  
+- Strong ethical compass and sense of justice  
+- Passionate about helping others grow  
+- Resilient in adversity and driven by meaningful impact
 
 <a href="https://github.com/jordPOD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordPOD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
