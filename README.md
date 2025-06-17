@@ -5,8 +5,11 @@ Front-end Web Designer
 ----------------------
 
 👋 Hi, I’m Jordan Nickless — a creative technologist, open-source advocate, and founder of Orangopus, a grassroots collective supporting inclusive innovation.
+
 🛠 I build tools that empower communities, from real-time web interfaces to AI-driven simulations.
+
 🌱 Passionate about accessibility, mental health, and ethical tech.
+
 📍 Based in the UK | Always learning | Always building
 
 *   🖥️  See my resume at [Re-Folio](https://re-folio.vercel.app/@jordan)
